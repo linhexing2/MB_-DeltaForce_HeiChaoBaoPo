@@ -1,0 +1,6 @@
+{
+  "name": "Triangle Delta Strategy",
+  "description": "Interactive map strategy guide for Kuroshio Blast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
